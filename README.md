@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurkanozturk
-- 👀 I’m interested in compiture progream and software
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in computer programming and software development.
+- 🌱 I’m currently learning C# and Kotlin
 - 📫 How to reach me ecz_nurkan@hotmail.com
 
 <!---
